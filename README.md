@@ -4,7 +4,14 @@
 
 ### 三点密码 | 一种字符替换式密码 | 2023年7月8日
 
-[![Readme Card](https://github-readme-stats-blazesnows-projects.vercel.app/api/pin/?username=BlazeSnow&repo=three-point-password)](https://github.com/BlazeSnow/three-point-password)
+<a href="https://github.com/BlazeSnow/three-point-password">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlazeSnow&repo=three-point-password" />
+</a>
+
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 |                                   项目名称                                    |              简介               |  开始开发时间  |
 | :---------------------------------------------------------------------------: | :-----------------------------: | :------------: |
 |         [三点密码](https://github.com/BlazeSnow/three-point-password)         |       一种字符替换式密码        |  2023年7月8日  |
