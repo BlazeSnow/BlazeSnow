@@ -4,7 +4,7 @@
 
 ### 三点密码 | 一种字符替换式密码 | 2023年7月8日
 
-[![Readme Card](https://github-readme-stats-i2uv9or4u-blazesnows-projects.vercel.app/api/pin/?username=BlazeSnow&repo=three-point-password)](https://github.com/BlazeSnow/three-point-password)
+[![Readme Card](https://github-readme-stats-blazesnows-projects.vercel.app/api/pin/?username=BlazeSnow&repo=three-point-password)](https://github.com/BlazeSnow/three-point-password)
 |                                   项目名称                                    |              简介               |  开始开发时间  |
 | :---------------------------------------------------------------------------: | :-----------------------------: | :------------: |
 |         [三点密码](https://github.com/BlazeSnow/three-point-password)         |       一种字符替换式密码        |  2023年7月8日  |
@@ -20,7 +20,7 @@
 
 ### <https://www.blazesnow.com/>
 
-[![Readme Card](https://github-readme-stats-i2uv9or4u-blazesnows-projects.vercel.app/api/pin/?username=BlazeSnow&repo=blazesnow.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-blazesnows-projects.vercel.app/api/pin/?username=BlazeSnow&repo=blazesnow.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 我的数据
 
