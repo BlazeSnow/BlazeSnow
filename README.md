@@ -11,5 +11,4 @@
 |           [解方程](/solving-equations)            |          解一元N次方程          |  2024年3月9日  |
 |           [A星寻路](/astar-pathfinding)           |           A星寻路算法           | 2024年3月22日  |
 | [背单词删中文](/Delete-characters-except-English) |       删去txt文件中的中文       | 2024年7月17日  |
-|                                                   |                                 |                |
-|                                                   |                                 |                |
+|              [井字棋](/Tic-Tac-Toe)               |               N/A               | 2024年7月26日  |
