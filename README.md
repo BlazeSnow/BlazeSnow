@@ -2,20 +2,20 @@
 
 ## 我的C++项目
 
+### 二十四点计算 | 用于二十四点的计算 | 2023年8月7日
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlazeSnow&repo=24-point-calculation)](https://github.com/BlazeSnow/24-point-calculation)
+
+### 移位密码 | 将字符前后移动来进行编解码 | 2023年7月9日
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlazeSnow&repo=displacement-cipher)](https://github.com/BlazeSnow/displacement-cipher)
+
 ### 三点密码 | 一种字符替换式密码 | 2023年7月8日
 
-<a href="https://github.com/BlazeSnow/three-point-password">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlazeSnow&repo=three-point-password" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlazeSnow&repo=three-point-password)](https://github.com/BlazeSnow/three-point-password)
 
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-|                                   项目名称                                    |              简介               |  开始开发时间  |
-| :---------------------------------------------------------------------------: | :-----------------------------: | :------------: |
-|         [三点密码](https://github.com/BlazeSnow/three-point-password)         |       一种字符替换式密码        |  2023年7月8日  |
-|         [移位密码](https://github.com/BlazeSnow/displacement-cipher)          |   将字符前后移动来进行编解码    |  2023年7月9日  |
+
 |       [二十四点计算](https://github.com/BlazeSnow/24-point-calculation)       |       用于二十四点的计算        |  2023年8月7日  |
 |  [自定义互换密码](https://github.com/BlazeSnow/Custom-interchange-password)   | 用csv文件作为自定义密码存放文件 | 2023年11月25日 |
 |           [解方程](https://github.com/BlazeSnow/solving-equations)            |          解一元N次方程          |  2024年3月9日  |
