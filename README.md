@@ -2,6 +2,9 @@
 
 ## 我的C++项目
 
+### 三点密码 | 一种字符替换式密码 | 2023年7月8日
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlazeSnow&repo=three-point-password)](https://github.com/anuraghazra/github-readme-stats)
 |                                   项目名称                                    |              简介               |  开始开发时间  |
 | :---------------------------------------------------------------------------: | :-----------------------------: | :------------: |
 |         [三点密码](https://github.com/BlazeSnow/three-point-password)         |       一种字符替换式密码        |  2023年7月8日  |
