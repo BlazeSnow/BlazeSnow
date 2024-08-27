@@ -2,6 +2,31 @@
 
 ## 我的C++项目
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 ### 井字棋 | 井字棋和三棋井字棋 | 2024年7月26日
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlazeSnow&repo=Tic-Tac-Toe)](https://github.com/BlazeSnow/Tic-Tac-Toe)
@@ -42,4 +67,4 @@
 
 ## 我的数据
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlazeSnow)](https://github.com/BlazeSnow)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlazeSnow&count_private=true&show_icons=true&locale=cn)
