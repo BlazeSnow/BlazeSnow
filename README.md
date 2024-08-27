@@ -18,3 +18,7 @@
 ### <https://www.blazesnow.com/>
 
 网站介绍见：<https://www.blazesnow.com/about.html>
+
+## 我的数据
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeSnow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
