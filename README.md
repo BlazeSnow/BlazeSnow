@@ -12,3 +12,9 @@
 |           [A星寻路](https://github.com/BlazeSnow/astar-pathfinding)           |           A星寻路算法           | 2024年3月22日  |
 | [背单词删中文](https://github.com/BlazeSnow/Delete-characters-except-English) |       删去txt文件中的中文       | 2024年7月17日  |
 |              [井字棋](https://github.com/BlazeSnow/Tic-Tac-Toe)               |              如题               | 2024年7月26日  |
+
+## 我的网站
+
+<https://www.blazesnow.com/>
+
+网站介绍见：<https://www.blazesnow.com/about.html>
