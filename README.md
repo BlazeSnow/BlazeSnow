@@ -42,4 +42,4 @@
 
 ## 我的数据
 
-![Readme Card](https://github-readme-stats.vercel.app/api?username=BlazeSnow&theme=default&show_icons=true&hide_border=true&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlazeSnow)](https://github.com/BlazeSnow)
