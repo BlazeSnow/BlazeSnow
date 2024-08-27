@@ -17,7 +17,7 @@
 
 ### <https://www.blazesnow.com/>
 
-网站介绍见：<https://www.blazesnow.com/about.html>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlazeSnow&repo=blazesnow.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 我的数据
 
