@@ -11,4 +11,8 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=autocad,aws,bash,c,cpp,clion,cloudflare,cmake,css,docker,git,github,githubactions,gitlab,gmail,html,js,linux,md,nginx,nodejs,npm,obsidian,ps,powershell,pr,rust,ts,ubuntu,vercel,visualstudio,vite,vscode,vue,workers)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=autocad,aws,bash,c,cpp,clion,cloudflare,cmake,css,docker,git,github,githubactions,gitlab,gmail,html,js,linux,md,nginx,nodejs,npm,obsidian,ps,powershell,pr,rust,ts,ubuntu,vercel,visualstudio,vite,vscode,vue,workers" />
+  </a>
+</p>
