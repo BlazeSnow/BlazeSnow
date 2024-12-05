@@ -13,4 +13,4 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=autocad,aws,bash,c,cpp,clion,cloudflare,cmake,css,docker,git,github,githubactions,gitlab,gmail,html,js,linux,md,matlab,nginx,nodejs,npm,obsidian,ps,powershell,pr,pycharm,py,rust,ts,ubuntu,vercel,visualstudio,vite,vscode,vue,windows,workers)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=autocad,aws,bash,c,cpp,clion,cloudflare,cmake,css,docker,git,github,githubactions,gitlab,gmail,html,js,linux,md,matlab,nginx,nodejs,npm,obsidian,ps,powershell,pr,pycharm,py,rust,ts,ubuntu,vercel,visualstudio,vite,vscode,vue,windows,workers&perline=6)](https://skillicons.dev)
