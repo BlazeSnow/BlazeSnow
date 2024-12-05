@@ -15,5 +15,5 @@
 
 <a href="https://skillicons.dev">
     <img
-        src="https://skillicons.dev/icons?i=autocad,aws,bash,c,cpp,clion,cloudflare,cmake,css,docker,git,github,githubactions,gitlab,gmail,html,js,linux,md,nginx,nodejs,npm,obsidian,ps,powershell,pr,rust,ts,ubuntu,vercel,visualstudio,vite,vscode,vue,windows,workers" />
+        src="https://skillicons.dev/icons?i=autocad,aws,bash,c,cpp,clion,cloudflare,cmake,css,docker,git,github,githubactions,gitlab,gmail,html,js,linux,md,nginx,nodejs,npm,obsidian,ps,powershell,pr,pycharm,py,rust,ts,ubuntu,vercel,visualstudio,vite,vscode,vue,windows,workers" />
 </a>
