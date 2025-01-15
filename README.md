@@ -9,4 +9,5 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=autocad,aws,bash,c,clion,cloudflare,cmake,cpp,css,docker,git,github,githubactions,gitlab,gmail,html,js,linux,matlab,md,nginx,nodejs,npm,obsidian,powershell,pr,ps,py,pycharm,rust,ts,ubuntu,vercel,visualstudio,vite,vscode,vue,windows,workers&perline=6)](https://skillicons.dev)
+<img align="center"
+    src="https://skillicons.dev/icons?i=autocad,aws,bash,c,clion,cloudflare,cmake,cpp,css,docker,git,github,githubactions,gitlab,gmail,html,js,linux,matlab,md,nginx,nodejs,npm,obsidian,powershell,pr,ps,py,pycharm,rust,ts,ubuntu,vercel,visualstudio,vite,vscode,vue,windows,workers&perline=6" />
