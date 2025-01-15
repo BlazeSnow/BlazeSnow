@@ -1,5 +1,11 @@
 # 更新日志
 
+## v1.0.3
+
+2025年1月15日20点10分
+
+- 修改status的源为：<https://github-readme-stats.vercel.app>
+
 ## v1.0.2
 
 2024年12月5日22点58分
