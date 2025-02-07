@@ -1,5 +1,12 @@
 # 更新日志
 
+## v1.0.5
+
+2025年2月7日17点44分
+
+- 优化Skill内容与列数
+- 添加Services版块
+
 ## v1.0.4
 
 2025年1月15日20点21分
@@ -11,7 +18,7 @@
 
 2025年1月15日20点10分
 
-- 修改status的源为：<https://github-readme-stats.vercel.app>
+- 修改Status的源为：<https://github-readme-stats.vercel.app>
 
 ## v1.0.2
 
