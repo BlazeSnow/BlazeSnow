@@ -8,4 +8,4 @@
 
 # Skills
 
-![My Skills](https://skillicons.dev/icons?i=anaconda,apple,arduino,autocad,aws,bash,c,cpp,clion,cloudflare,cmake,css,discord,docker,git,github,githubactions,gitlab,gmail,html,js,linux,md,matlab,nginx,nodejs,npm,obsidian,ps,powershell,pr,pycharm,py,svg,ts,ubuntu,visualstudio,vite,vscode,vue,windows,workers,)
+![My Skills](https://skillicons.dev/icons?i=anaconda,apple,arduino,autocad,aws,bash,c,cpp,clion,cloudflare,cmake,css,discord,docker,git,github,githubactions,gitlab,gmail,html,js,linux,md,matlab,nginx,nodejs,npm,obsidian,ps,powershell,pr,pycharm,py,svg,ts,ubuntu,visualstudio,vite,vscode,vue,windows,workers)
