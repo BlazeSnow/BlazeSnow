@@ -2,9 +2,9 @@
 
 ## GitHub状态
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlazeSnow&count_private=true&show_icons=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlazeSnow&count_private=true&show_icons=true&include_all_commits=true&locale=cn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeSnow&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeSnow&count_private=true&show_icons=true&include_all_commits=true&locale=cn)
 
 ## 我的技能
 
