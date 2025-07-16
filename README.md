@@ -9,11 +9,3 @@
 ## 我的技能
 
 ![My Skills](https://skillicons.dev/icons?i=anaconda,apple,arduino,autocad,aws,bash,c,cpp,clion,cloudflare,cmake,css,discord,docker,git,github,githubactions,gitlab,gmail,html,js,linux,md,matlab,nginx,nodejs,npm,obsidian,ps,powershell,pr,pycharm,py,svg,ts,ubuntu,visualstudio,vite,vscode,vue,windows,workers)
-
-## 我的贡献
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlazeSnow/BlazeSnow/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BlazeSnow/BlazeSnow/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BlazeSnow/BlazeSnow/output/github-contribution-grid-snake.svg">
-</picture>
