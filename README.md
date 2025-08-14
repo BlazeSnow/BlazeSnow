@@ -1,4 +1,4 @@
-# BlazeSnow个人简介
+# BlazeSnow
 
 ## Status
 
