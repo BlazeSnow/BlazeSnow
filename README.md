@@ -16,6 +16,6 @@
 <p align="center">
     <a href="https://skillicons.dev">
         <img
-            src="https://skillicons.dev/icons?i=anaconda,apple,arduino,autocad,aws,bash,c,cpp,clion,cloudflare,cmake,css,discord,docker,git,github,githubactions,gitlab,gmail,html,js,linux,md,matlab,nginx,nodejs,npm,obsidian,ps,powershell,pr,pycharm,py,svg,ts,ubuntu,visualstudio,vite,vscode,vue,windows,workers" />
+            src="https://skillicons.dev/icons?i=autocad,bash,c,cpp,cloudflare,cmake,css,docker,git,github,githubactions,html,linux,md,nginx,nodejs,npm,vue,workers&perline=7&theme=light" />
     </a>
 </p>
