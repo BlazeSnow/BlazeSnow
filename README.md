@@ -1,73 +1,37 @@
-## STATUS
+# STATUS
 
-<p align="left">
-    <a href="https://github.com/stats-organization/github-stats-extended">
-        <img style="vertical-align: top;"
-            src="https://github-stats-extended.vercel.app/api?username=BlazeSnow&show_icons=true&theme=vue-dark" />
-    </a>
-    <a href="https://github.com/stats-organization/github-stats-extended">
-        <img style="vertical-align: top;"
-            src="https://github-stats-extended.vercel.app/api/top-langs?username=BlazeSnow&show_icons=true&theme=vue-dark&layout=compact" />
-    </a>
-</p>
+[![BlazeSnow GitHub Status](https://github-stats-extended.vercel.app/api?username=BlazeSnow&show_icons=true&theme=vue-dark)](https://github.com/stats-organization/github-stats-extended)
 
-## REPOS
+[![BlazeSnow Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=BlazeSnow&show_icons=true&theme=vue-dark&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
-### WinUI
+# REPOS
 
-<p align="left">
-    <a href="https://github.com/ipabuyer/ipabuyer">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=ipabuyer&repo=ipabuyer&show_icons=true&theme=vue-dark" />
-    </a>
-    <a href="https://github.com/BlazeSnow/PowerPlan">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=PowerPlan&show_icons=true&theme=vue-dark" />
-    </a>
-</p>
+## WinUI
 
-<p align="left">
-    <a href="https://github.com/BlazeSnow/MessagesEncrypter">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=MessagesEncrypter&show_icons=true&theme=vue-dark" />
-    </a>
-    <a href="https://github.com/BlazeSnow/wows-ime">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=wows-ime&show_icons=true&theme=vue-dark" />
-    </a>
-</p>
+[![IPAbuyer](https://github-stats-extended.vercel.app/api/pin/?username=ipabuyer&repo=ipabuyer&show_icons=true&theme=vue-dark)](https://github.com/ipabuyer/ipabuyer)
 
-### Tauri
+[![PowerPlan](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=PowerPlan&show_icons=true&theme=vue-dark)](https://github.com/BlazeSnow/PowerPlan)
 
-<p align="left">
-    <a href="https://github.com/BlazeSnow/Todo4Agent">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=Todo4Agent&show_icons=true&theme=vue-dark" />
-    </a>
-    <a href="https://github.com/BlazeSnow/TarkovItemManager">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=TarkovItemManager&show_icons=true&theme=vue-dark" />
-    </a>
-</p>
+[![MessagesEncrypter](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=MessagesEncrypter&show_icons=true&theme=vue-dark)](https://github.com/BlazeSnow/MessagesEncrypter)
 
-### Serverless
+[![wows-ime](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=wows-ime&show_icons=true&theme=vue-dark)](https://github.com/BlazeSnow/wows-ime)
 
-<p align="left">
-    <a href="https://github.com/BlazeSnow/blazesnow.github.io">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=blazesnow.github.io&show_icons=true&theme=vue-dark" />
-    </a>
-    <a href="https://github.com/BlazeSnow/OneDriveHosts">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=OneDriveHosts&show_icons=true&theme=vue-dark" />
-    </a>
-</p>
+## Tauri
 
-### Docker
+[![Todo4Agent](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=Todo4Agent&show_icons=true&theme=vue-dark)](https://github.com/BlazeSnow/Todo4Agent)
 
-<p align="left">
-    <a href="https://github.com/BlazeSnow/Caddy">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=Caddy&show_icons=true&theme=vue-dark" />
-    </a>
-    <a href="https://github.com/composebuilder/composebuilder">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=composebuilder&repo=composebuilder&show_icons=true&theme=vue-dark" />
-    </a>
-</p>
+[![TarkovItemManager](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=TarkovItemManager&show_icons=true&theme=vue-dark)](https://github.com/BlazeSnow/TarkovItemManager)
 
-<p align="left">
-    <a href="https://github.com/imageporter/ImagePorter">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=imageporter&repo=ImagePorter&show_icons=true&theme=vue-dark" />
-    </a>
-</p>
+## Serverless
+
+[![blazesnow.github.io](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=blazesnow.github.io&show_icons=true&theme=vue-dark)](https://github.com/BlazeSnow/blazesnow.github.io)
+
+[![OneDriveHosts](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=OneDriveHosts&show_icons=true&theme=vue-dark)](https://github.com/BlazeSnow/OneDriveHosts)
+
+## Docker
+
+[![Caddy](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=Caddy&show_icons=true&theme=vue-dark)](https://github.com/BlazeSnow/Caddy)
+
+[![composebuilder](https://github-stats-extended.vercel.app/api/pin/?username=composebuilder&repo=composebuilder&show_icons=true&theme=vue-dark)](https://github.com/composebuilder/composebuilder)
+
+[![ImagePorter](https://github-stats-extended.vercel.app/api/pin/?username=imageporter&repo=ImagePorter&show_icons=true&theme=vue-dark)](https://github.com/imageporter/ImagePorter)
