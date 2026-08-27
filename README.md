@@ -18,7 +18,7 @@
 
 ## Tauri
 
-[![Todo4Agent](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=Todo4Agent&show_icons=true)](https://github.com/BlazeSnow/Todo4Agent)
+[![Todo4Agent](https://github-stats-extended.vercel.app/api/pin/?username=Todo4Agent&repo=Todo4Agent&show_icons=true)](https://github.com/Todo4Agent/Todo4Agent)
 
 [![TarkovItemManager](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=TarkovItemManager&show_icons=true)](https://github.com/BlazeSnow/TarkovItemManager)
 
