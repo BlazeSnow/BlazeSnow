@@ -6,21 +6,27 @@
 
 # REPOS
 
-## WinUI
-
-[![IPAbuyer](https://github-stats-extended.vercel.app/api/pin/?username=ipabuyer&repo=ipabuyer&show_icons=true)](https://github.com/ipabuyer/ipabuyer)
-
-[![PowerPlan](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=PowerPlan&show_icons=true)](https://github.com/BlazeSnow/PowerPlan)
-
-[![MessagesEncrypter](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=MessagesEncrypter&show_icons=true)](https://github.com/BlazeSnow/MessagesEncrypter)
-
-[![wows-ime](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=wows-ime&show_icons=true)](https://github.com/BlazeSnow/wows-ime)
-
 ## Tauri
+
+[![IPAbuyer.Rust](https://github-stats-extended.vercel.app/api/pin/?username=ipabuyer&repo=IPAbuyer.Rust&show_icons=true)](https://github.com/ipabuyer/IPAbuyer.Rust)
+
+[![GitRepoSync](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=GitRepoSync&show_icons=true)](https://github.com/BlazeSnow/GitRepoSync)
+
+[![PowerPlan.Rust](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=PowerPlan.Rust&show_icons=true)](https://github.com/BlazeSnow/PowerPlan.Rust)
 
 [![Todo4Agent](https://github-stats-extended.vercel.app/api/pin/?username=Todo4Agent&repo=Todo4Agent&show_icons=true)](https://github.com/Todo4Agent/Todo4Agent)
 
 [![TarkovItemManager](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=TarkovItemManager&show_icons=true)](https://github.com/BlazeSnow/TarkovItemManager)
+
+## WinUI
+
+[![IPAbuyer.WinUI](https://github-stats-extended.vercel.app/api/pin/?username=ipabuyer&repo=IPAbuyer.WinUI&show_icons=true)](https://github.com/ipabuyer/IPAbuyer.WinUI)
+
+[![PowerPlan.WinUI](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=PowerPlan.WinUI&show_icons=true)](https://github.com/BlazeSnow/PowerPlan.WinUI)
+
+[![MessagesEncrypter](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=MessagesEncrypter&show_icons=true)](https://github.com/BlazeSnow/MessagesEncrypter)
+
+[![wows-ime](https://github-stats-extended.vercel.app/api/pin/?username=BlazeSnow&repo=wows-ime&show_icons=true)](https://github.com/BlazeSnow/wows-ime)
 
 ## Serverless
 
